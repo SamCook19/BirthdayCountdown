@@ -55,6 +55,7 @@
     "file-loader": "^1.1.11",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
+    "moment": "^2.29.1",
     "node-sass": "^4.13.1",
     "postcss-loader": "^2.1.6",
     "react": "16.13.1",
@@ -76,6 +77,8 @@
     "babel-preset-react": "^6.24.1",
     "babel-register": "^6.26.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "react-calendar": "^2.13.5",
+    "react-datepicker": "^1.0.3",
     "uglifyjs-webpack-plugin": "^1.2.7",
     "webpack": "^4.16.4"
   }
